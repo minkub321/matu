@@ -1,0 +1,19 @@
+<!-- <script src="{{ asset('assets/vendors/bootstrap/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/gsap/gsap.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/imagesloaded/imagesloaded.pkgd.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/isotope/isotope.pkgd.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/glightbox/glightbox.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/swiper/swiper-bundle.min.js') }}"></script>
+<script src="{{ asset('assets/vendors/aos/aos.js') }}"></script>
+<script src="{{ asset('assets/vendors/purecounter/purecounter.js') }}"></script>
+<script src="{{ asset('assets/js/custom.js') }}"></script>
+ -->
+<script src="/assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendors/gsap/gsap.min.js"></script>
+<script src="/assets/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="/assets/vendors/isotope/isotope.pkgd.min.js"></script>
+<script src="/assets/vendors/glightbox/glightbox.min.js"></script>
+<script src="/assets/vendors/swiper/swiper-bundle.min.js"></script>
+<script src="/assets/vendors/aos/aos.js"></script>
+<script src="/assets/vendors/purecounter/purecounter.js"></script>
+<script src="/assets/js/custom.js"></script>
